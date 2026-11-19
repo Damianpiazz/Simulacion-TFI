@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "skills": {
+    "data-analysis-jupyter": {
+      "source": "Mindrally/skills",
+      "commit": "7682ca77710e0971eab4e0ae5dddfa281aea0ba5",
+      "sourceType": "github",
+      "skillPath": "data-analysis-jupyter/SKILL.md",
+      "computedHash": "6917cef079e84cec758a50a045ea83e46f442286e23b42457a68a73e435832a1"
+    },
+    "data-visualization": {
+      "source": "anthropics/knowledge-work-plugins",
+      "commit": "b4c9a4e1de4b42868b74a6fe30ac766f64e43a3e",
+      "sourceType": "github",
+      "skillPath": "data/skills/data-visualization/SKILL.md",
+      "computedHash": "2d313aa0dc3624db43c11139b10cb2e3e7a264fae1a687ad097d3d0a2fad016b"
+    },
+    "jupyter-notebook-writing": {
+      "source": "zc277584121/marketing-skills",
+      "commit": "959680e17acfa4474639c7a9abf77340399ebfb6",
+      "sourceType": "github",
+      "skillPath": "skills/jupyter-notebook-writing/SKILL.md",
+      "computedHash": "85b79daa0cf60d01524dc2d4b2e6fae24c85c6f48b2ee8a57d6b850bb3d27739"
+    },
+    "manimgx": {
+      "source": "academa-labs/manimgx",
+      "commit": "1fb4dd7327bf5ed7d0c40d022c05cb816455ae1d",
+      "sourceType": "github",
+      "skillPath": "skills/manimgx/SKILL.md",
+      "computedHash": "842f120449e966528a48d9435140dcc3cb979bd560dc4fb74f62ae2dc4cd5d59"
+    },
+    "numpy": {
+      "source": "microsoft/debugpy",
+      "commit": "82944695ed500b159edbcf4f17ca48d00a96f2c1",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/numpy/SKILL.md",
+      "computedHash": "13670d37494f8d0e3ecf183d2a53b138f064484f7efe4f98694fe2ab2411c165"
+    },
+    "pandas-pro": {
+      "source": "Jeffallan/claude-skills",
+      "commit": "67c1961b180dc92cf08983344627109e983e8f51",
+      "sourceType": "github",
+      "skillPath": "skills/pandas-pro/SKILL.md",
+      "computedHash": "3ab6f8326c1a7228532c79f7c11af4bc8820ff7a765948ebf4d0ca29d111039f"
+    }
+  }
+}
